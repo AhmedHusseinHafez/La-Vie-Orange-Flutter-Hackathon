@@ -1,10 +1,10 @@
 # Dhabayih
 
 <p float="center">
-<img src="screenshots\screen1.png" width="800" />
+<img src="screenshots\screen1.png" width="400" />
 </p>
 <p float="center">
-<img src="screenshots\screen2.png" width="800" />
+<img src="screenshots\screen2.png" width="400" />
 </p>
 
 ## La Vie App Features

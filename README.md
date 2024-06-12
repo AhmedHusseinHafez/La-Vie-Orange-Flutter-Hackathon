@@ -19,21 +19,7 @@
 📚 Expert Advice: Get tips and recommendations from horticulture experts. Stay updated with the latest trends and techniques in gardening.
 
 
-## La Vie App Features
 
-<details>
-     <summary> Click to expand </summary>
-
-* Facebook login
-* Google login
-* Apple login
-* Home
-* Buy products
-* Profile
-* maps
-* Payment
-
-</details>
 
 ## La Vie App Dependencies
 
@@ -42,9 +28,9 @@
 
 * [bloc](https://pub.dev/packages/bloc)
 * [flutter_screenutil](https://pub.dev/packages/flutter_screenutil)
-* [qr_code_scanner] (https://pub.dev/packages/qr_code_scanner)
-* [get_it] (https://pub.dev/packages/get_it)
-* [retrofit] ([https://pub.dev/packages/get_it](https://pub.dev/packages/retrofit))
+* [qr_code_scanner](https://pub.dev/packages/qr_code_scanner)
+* [get_it](https://pub.dev/packages/get_it)
+* [retrofit](https://pub.dev/packages/retrofit)
 
 
 
